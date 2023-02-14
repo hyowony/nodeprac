@@ -1,0 +1,26 @@
+{
+  "name": "nodeprac",
+  "version": "1.0.0",
+  "description": "노드 과제 연습",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyowony/nodeprac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyowony/nodeprac/issues"
+  },
+  "homepage": "https://github.com/hyowony/nodeprac#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
